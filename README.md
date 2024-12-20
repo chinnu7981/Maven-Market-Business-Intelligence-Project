@@ -29,16 +29,10 @@ This repository contains an in-depth analysis of the Maven Market's sales and pe
 
 Here’s a snapshot of the Power BI dashboard:
 
-![Dashboard Screenshot](./path/to/screenshot.png)
-
-> Replace `path/to/screenshot.png` with the actual path of the uploaded screenshot in the repository.
+![Dashboard Screenshot](./image.png)
 
 ## How to Use
 
 1. Open the `Maven_Market_Report.pbix` file in Power BI Desktop.
 2. Explore the interactive dashboards to gain deeper insights into the data.
 3. Refer to the `Maven_Market_Report.pdf` for a static summary of the analysis.
-
-## Contact
-
-For questions or feedback, feel free to reach out at [your email/LinkedIn/GitHub profile].
